@@ -1,9 +1,9 @@
-# Coffee Shop Sales 
-# Coffee Shop Sales Analysis ☕📊
+# ☕ Coffee Shop Sales Analysis  
 
 ## 📌 Project Overview  
-This project analyzes sales data from a Coffee Shop using **Excel** to uncover business insights such as revenue trends, customer behavior, and product performance.  
-The goal is to support data-driven decisions that improve sales strategy and customer experience.
+This project analyzes sales data from a **Coffee Shop** using **Excel** to uncover valuable business insights such as revenue trends, customer behavior, and product performance.  
+
+The goal is to support **data-driven decisions** that improve sales strategy and customer experience.  
 
 ---
 
@@ -18,36 +18,36 @@ The goal is to support data-driven decisions that improve sales strategy and cus
 
 ## 📊 Key Insights  
 - 💰 **Total Sales**: $698,812.33  
-- 👥 **Total Footfall**: 149,116  
-- 🧾 **Average Bill/Person**: $4.69  
-- 🏆 **Best-selling Product**: Barista Espresso ($91,406.20 revenue)  
-- 🏬 **Top Store Location**: Manhattan store had the **highest revenue contribution**  
+- 👥 **Total Footfall**: 149,116 customers  
+- 🧾 **Avg Bill/Person**: $4.69  
+- 🛒 **Avg Orders/Person**: 1.44  
+- 🌆 **Best Store Location**: Astoria (highest sales & footfall)  
+- ⏰ **Peak Hours**: 8 AM – 10 AM (morning rush)  
+- 🥇 **Top Product**: Barista Espresso ($91,406.20 sales)  
 
 ---
 
-## 🛠 Tools & Skills Used  
-- **Microsoft Excel**  
-  - Data Cleaning  
-  - Pivot Tables  
-  - Data Visualization (Charts, Graphs)  
-  - Dashboard Design  
+## 📸 Dashboard Preview  
+
+Here’s a snapshot of the **Excel Dashboard** created for this project:  
+
+![Coffee Shop Dashboard](Screenshot%202025-09-05%20213013.png)  
 
 ---
 
-## 📂 Repository Contents  
-- `coffee shop sales.xlsx` → Dataset + Excel Dashboard  
-- `Coffee Shop Sales Analysis.pdf` → Clean project report with visuals  
-- `screenshots/` → Dashboard images for quick view  
+## 🛠️ Tools Used  
+- **Excel** (Pivot Tables, Charts, Dashboards, Data Cleaning)  
 
 ---
 
-## 🚀 Key Learnings  
-- Improved ability to clean and structure raw data.  
-- Learned how to design interactive and insightful dashboards in Excel.  
-- Strengthened business problem-solving skills through data analysis.  
+## 📂 Project Files  
+- `coffee shop sales.xlsx` → Raw dataset & analysis  
+- `Coffee Shop Sales Analysis.pdf` → Final report  
+- `Screenshot 2025-09-05 213013.png` → Dashboard preview  
 
 ---
 
 ## 🔗 Project Link  
-📂 Full project available here: [Coffee Shop Sales Analysis](https://github.com/khushitiwari878/Coffee-Shop-sales)
+👉 [View this project on GitHub](https://github.com/khushitiwari878/Coffee-Shop-sales)  
 
+---
